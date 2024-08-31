@@ -100,7 +100,7 @@ streamlit run app.py
 This will launch the app in your web browser, where you can enter search queries and see the semantic search results and summaries.
 
 ### Snapshot
-![screenshot](https://github.com/senthilthangaiah/detecttheft/blob/master/snatch.png)
+![screenshot](https://github.com/senthilthangaiah/CogniSrch/blob/master/congisrch_snap1.png)
 
 ![screenshot](https://github.com/senthilthangaiah/detecttheft/blob/master/snatch.png)
 
