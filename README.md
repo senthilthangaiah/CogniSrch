@@ -103,10 +103,10 @@ This will launch the app in your web browser, where you can enter search queries
 
 ![screenshot](https://github.com/senthilthangaiah/CogniSrch/blob/master/cgsnapshot1.png)
 
+![screenshot](https://github.com/senthilthangaiah/CogniSrch/blob/master/cgsnapshot2.png)
+
 ![screenshot](https://github.com/senthilthangaiah/CogniSrch/blob/master/cgsnap.png)
 
 ![screenshot](https://github.com/senthilthangaiah/CogniSrch/blob/master/congisrch_snap1.png)
-
-
 
 
