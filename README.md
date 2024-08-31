@@ -12,7 +12,7 @@ Cogni Srch is a powerful search application built with Streamlit, DuckDuckGo sea
 
 To run this project locally, follow these steps:
 
-### 1. **Clone the repository:**
+### **Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/Cogni-Srch.git
